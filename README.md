@@ -1,0 +1,1 @@
+thực tập training oop 
